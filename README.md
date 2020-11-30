@@ -1,7 +1,7 @@
 # Book_Finder_bot
 a reddit bot that searches a given subreddit's hot page for a keyword, and if found, leaves a comment that interfaces with the RemindMe! bot. Stores posts it comments on to prevent spam.
 
-## Running
+## Running (assuming python is installed)
 
 ### install praw
 ```
